@@ -1,1 +1,1 @@
-Tugas membuat CRUD 
+Belajar membuat CRUD menggunakan js
